@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 First Change3
+=======
+First Change4
+opa
+opa
+>>>>>>> feature2
